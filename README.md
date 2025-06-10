@@ -4,7 +4,7 @@
 3. Enter root folder with terminal
 4. Type "npm start"
 
-Note: If you want to host this locally, but want to have people join from anywhere, I suggest using Cloudflare's free tunneling
+Note: If you want to host this locally, but want to have people join from anywhere, I suggest using Cloudflare's free tunneling.
 
 # Tips and Tricks
 - If you're lagging, have all the watchers pause at the same time using the dedicated pause button, then have one person play using the dedicated play button
@@ -13,4 +13,4 @@ Note: If you want to host this locally, but want to have people join from anywhe
 # Notes
 - The closer all the watchers are, the better the connection (duh) and lesser the lag
 - I don't know how this works internationally
-- The example video in is a Blender Open video
+- The example video is a Blender Open video
