@@ -12,5 +12,6 @@ Note: If you want to host this locally, but want to have people join from anywhe
 
 # Notes
 - The closer all the watchers are, the better the connection (duh) and lesser the lag
+- A Raspberry Pi 4B with 4GB RAM is able to easily serve video for three to four people
 - I don't know how this works internationally
 - The example video is a Blender Open video
