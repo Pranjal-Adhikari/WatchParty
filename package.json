@@ -15,6 +15,6 @@
     "nodemon": "^3.0.1"
   },
   "keywords": ["watch-party", "video", "sync", "socket.io"],
-  "author": "CadmarLegend",
+  "author": "Pranjal Adhikari",
   "license": "MIT"
 }
